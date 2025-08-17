@@ -17,3 +17,6 @@ Desired Output: -
 Check output here: -
 
 https://quriouscoder3953.github.io/Todolist-Coding-Practice-1-SW-GC1-CCBP-NxtWave/
+
+
+#Note: This is a static website designed for mobile view. It is advisable and preferrable to open the link on mobile phone only to avoid unexpected results
